@@ -1,9 +1,11 @@
-import Home from "./assets/pages/Home"
+import React from 'react'
+import Home from './pages/Home'
 
-function App() {
-return (<div>
-    <Home/>
-</div>)
+export default function App() {
+  return (
+    <div>
+        <Home/>
+    </div>
+  )
 }
 
-export default App
