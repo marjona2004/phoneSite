@@ -1,16 +1,15 @@
 .navbar{
-    padding: 2rem 3rem;
+    padding: 1rem 2rem;
     display: flex;
     justify-content: space-between;
-    border: 2px solid red;
     background-color:#052c65;
     position: fixed;    
-    width: 100%;
-  
+    width: 96%;
+    z-index: 999;
+    top: 0; 
 }
 .h_logo>img{
     width: 4rem;
-    color: #fff;
   
 }
 

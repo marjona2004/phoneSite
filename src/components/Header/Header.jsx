@@ -5,7 +5,6 @@ export default function Header() {
   return (
     <div className={styles.header_section}>
         <img src={header_img} alt="" />
-      
     </div>
   )
 }
