@@ -26,11 +26,8 @@ import rasm23 from "../../assets/img/rasm23.jpg"
 import rasm24 from "../../assets/img/rasm24.jpg"
 import rasm25 from "../../assets/img/rasm25.jpg"
 import rasm26 from "../../assets/img/rasm26.jpg"
-import rasm27 from "../../assets/img/rasm27.webp"
-import rasm28 from "../../assets/img/rasm28.jpg"
-
 import rasm30 from "../../assets/img/rasm30.jpg"
-
+import rasm32 from "../../assets/img/rasm32.jpg"
 
 
 
@@ -410,7 +407,7 @@ export default function Products() {
      <div className={styles.flex_item_bottom}>
          <div className={styles.flex_item}>
             <div className={styles.product_head}>
-              <img src={rasm20} alt="" />
+              <img src={rasm32} alt="" />
                <h2>Flying Wooden Bird</h2>
             </div>  
             <div className={styles.product_info}>
