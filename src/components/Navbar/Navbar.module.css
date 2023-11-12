@@ -4,9 +4,10 @@
     justify-content: space-between;
     background-color:#052c65;
     position: fixed;    
-    width: 96%;
     z-index: 999;
     top: 0; 
+    left: 0;
+    right: 0;
 }
 .h_logo>img{
     width: 4rem;

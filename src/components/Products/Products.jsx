@@ -1,5 +1,6 @@
 import React from 'react'
 import styles from "./Products.module.css"
+/*******Products photo */
 import product_one_img from "../../assets/img/products_one_img.jpg"
 import product_two_img from "../../assets/img/prodacts_two_img.jpg"
 import rasm3 from "../../assets/img/rasm3.jpg"
